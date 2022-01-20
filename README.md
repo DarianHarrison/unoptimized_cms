@@ -1,4 +1,4 @@
-# countminsketch-rs
+# cms-rs
 
 approximate streaming heavy hitters
 
